@@ -1,9 +1,3 @@
-@font-face {
-    font-family: 'Wallington Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Wallington Regular'), url('Wallington-Regular.woff') format('woff');
-    }
 
 body{
     margin: 0;
