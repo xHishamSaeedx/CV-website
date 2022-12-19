@@ -244,3 +244,22 @@ a{
     position: static;
 }
 
+
+@media(min-width: 450px){
+    .bottom-cloud{
+        position: absolute;
+        top: 20.625rem;
+        left: 3.75rem;
+        width: 9.375rem;
+    }
+
+    .top-cloud{
+        position: absolute;
+        right: 9.375rem;
+        top: 5rem;
+        width: 9.375rem;
+    }
+
+    
+
+}
